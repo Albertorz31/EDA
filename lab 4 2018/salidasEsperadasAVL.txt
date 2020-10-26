@@ -1,0 +1,26 @@
+Tabla Hash implementada con arboles AVL
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.003000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.003000 en segundos
+TRUE Tiempo: 0.003000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.001000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.001000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.003000 en segundos
+TRUE Tiempo: 0.001000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.003000 en segundos
+TRUE Tiempo: 0.001000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.003000 en segundos
+TRUE Tiempo: 0.002000 en segundos
+TRUE Tiempo: 0.001000 en segundos
